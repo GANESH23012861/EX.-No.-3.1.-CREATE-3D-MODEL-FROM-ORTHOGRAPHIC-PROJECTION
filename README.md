@@ -40,7 +40,8 @@ To create a 3D model from given orthographic projection.
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
-## OUTPUT:
+## OUTPUT:![selva 3 1_page-0001](https://github.com/GANESH23012861/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/147139861/08a8cd4c-1c02-4983-ad4c-81fe93738b64)
+
 ![EX 3 1_page-0001](https://github.com/GANESH23012861/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/147139861/81aecd87-e622-4a02-8b4d-7f695ec80e47)
 
 ## RESULT:
